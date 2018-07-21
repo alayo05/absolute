@@ -1,5 +1,6 @@
 # Absolute - start masternode easy
-With this script you can easily start the Absolute 0.12.2.3a masternode (https://absolutecoin.io/).
+With this script you can start the masternode of Absolute 0.12.2.3a easily, it is already with Sentinel version (V1.2) (https://absolutecoin.io/).
+
 
 Steps:
 
